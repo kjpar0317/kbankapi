@@ -5,11 +5,13 @@ The [KBankApi](https://) library exported as [Node.js](https://nodejs.org/) modu
 ## Installation
 
 Using npm :
-```shell
+
+````shell
 $ npm i kbankapi
 
 In Node.js
 ```js
 
 // Load the full build
-var _kbapi = require('kbankapi')
+var _kbapi = require('kbankapi')a
+````
